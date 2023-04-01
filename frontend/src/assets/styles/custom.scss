@@ -1,0 +1,18 @@
+$theme-colors: (
+  'primary': #27492d,
+);
+
+$body-bg: #2b2b2b;
+$body-color: #ececec;
+
+.div {
+  display: flex;
+}
+
+.texto {
+  height: 40vh;
+  width: 33.33%;
+}
+
+
+@import '~bootstrap/scss/bootstrap.scss';
